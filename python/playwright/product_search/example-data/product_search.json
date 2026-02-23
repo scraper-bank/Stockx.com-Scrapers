@@ -1,0 +1,1659 @@
+{
+  "breadcrumbs": [
+    {
+      "name": "Home",
+      "url": "https://stockx.com/"
+    },
+    {
+      "name": "Search",
+      "url": "https://stockx.com/"
+    }
+  ],
+  "pagination": {
+    "currentPage": 1,
+    "hasNextPage": true,
+    "hasPreviousPage": false,
+    "nextPageUrl": "https://stockx.com/search?s=kids+shoes&page=2",
+    "previousPageUrl": null,
+    "totalPages": 25
+  },
+  "products": [
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 4 Retro Black Cat (2025) (GS)",
+          "url": "https://images.stockx.com/images/Air-Jordan-4-Retro-Black-Cat-2025-GS-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&q=60&dpr=1&trim=color&updated_at=1764364436"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 4 Retro Black Cat (2025) (GS)",
+      "preDiscountPrice": null,
+      "price": 147,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-4-retro-black-cat-2025-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 11 Retro Gamma Blue (2025) (GS)",
+          "url": "https://images.stockx.com/images/Air-Jordan-11-Retro-Gamma-Blue-2025-GS-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&q=60&dpr=1&trim=color&updated_at=1764953628"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 11 Retro Gamma Blue (2025) (GS)",
+      "preDiscountPrice": null,
+      "price": 196,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-11-retro-gamma-blue-2025-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 4 Retro Valentine's Day (2026) (GS)",
+          "url": "https://images.stockx.com/images/Air-Jordan-4-Retro-Valentines-Day-2026-GS-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&q=60&dpr=1&trim=color&updated_at=1770914776"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 4 Retro Valentine's Day (2026) (GS)",
+      "preDiscountPrice": null,
+      "price": 100,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-4-retro-valentines-day-2026-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "New Balance 9060 Triple Black (GS)",
+          "url": "https://images.stockx.com/images/New-Balance-9060-Black-Phantom-GS-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&q=60&dpr=1&trim=color&updated_at=1738193358"
+        }
+      ],
+      "isSponsored": false,
+      "name": "New Balance 9060 Triple Black (GS)",
+      "preDiscountPrice": null,
+      "price": 77,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/new-balance-9060-black-phantom-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "adidas Handball Spezial Preloved Fig (GS)",
+          "url": "https://images.stockx.com/images/adidas-Handball-Spezial-Preloved-Fig-GS.jpg?fit=fill&bg=FFFFFF&w=140&h=75&q=60&dpr=1&trim=color&updated_at=1732098807"
+        }
+      ],
+      "isSponsored": true,
+      "name": "adidas Handball Spezial Preloved Fig (GS)",
+      "preDiscountPrice": null,
+      "price": 119,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/adidas-handball-spezial-preloved-fig-gs?size=6.5Y&sponsored=true",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Nike Ja 3 Sound Check (GS)",
+          "url": "https://images.stockx.com/images/Nike-Ja-3-Sound-Check-GS-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&q=60&dpr=1&trim=color&updated_at=1766610860"
+        }
+      ],
+      "isSponsored": true,
+      "name": "Nike Ja 3 Sound Check (GS)",
+      "preDiscountPrice": null,
+      "price": 86,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/nike-ja-3-sound-check-gs?size=6Y&xpress-ship=standard&sponsored=true",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 4 Retro Cave Stone (TD)",
+          "url": "https://images.stockx.com/images/Air-Jordan-4-Retro-Cave-Stone-TD-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&q=60&dpr=1&trim=color&updated_at=1761571205"
+        }
+      ],
+      "isSponsored": true,
+      "name": "Jordan 4 Retro Cave Stone (TD)",
+      "preDiscountPrice": null,
+      "price": 60,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-4-retro-cave-stone-td?size=10C&sponsored=true",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Nike Dunk Low Triple Pink (PS)",
+          "url": "https://images.stockx.com/images/Nike-Dunk-Low-Triple-Pink-PS-Product_V2.jpg?fit=fill&bg=FFFFFF&w=140&h=75&q=60&dpr=1&trim=color&updated_at=1738193358"
+        }
+      ],
+      "isSponsored": true,
+      "name": "Nike Dunk Low Triple Pink (PS)",
+      "preDiscountPrice": null,
+      "price": 45,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/nike-dunk-low-triple-pink-ps?size=12C&sponsored=true",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 4 Retro White Cement (2025) (GS)",
+          "url": "https://images.stockx.com/images/Air-Jordan-4-Retro-White-Cement-2025-GS-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&q=60&dpr=1&trim=color&updated_at=1748034325"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 4 Retro White Cement (2025) (GS)",
+      "preDiscountPrice": null,
+      "price": 114,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-4-retro-white-cement-2025-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 6 Retro Infrared Salesman (GS)",
+          "url": "https://images.stockx.com/images/Air-Jordan-6-Retro-Reverse-Infrared-GS-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&q=60&dpr=1&trim=color&updated_at=1770788002"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 6 Retro Infrared Salesman (GS)",
+      "preDiscountPrice": null,
+      "price": 104,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-6-retro-reverse-infrared-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Nike Dunk Low Retro White Black Panda (GS)",
+          "url": "https://images.stockx.com/images/Nike-Dunk-Low-Retro-White-Black-GS-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&q=60&dpr=1&trim=color&updated_at=1738193358"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Nike Dunk Low Retro White Black Panda (GS)",
+      "preDiscountPrice": null,
+      "price": 37,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/nike-dunk-low-retro-white-black-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Nike Air Force 1 Low LE Triple White (GS)",
+          "url": "https://images.stockx.com/images/Nike-Air-Force-1-Low-LE-Triple-White-GS-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&q=60&dpr=1&trim=color&updated_at=1738193358"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Nike Air Force 1 Low LE Triple White (GS)",
+      "preDiscountPrice": null,
+      "price": 59,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/nike-air-force-1-low-le-triple-white-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "ASICS Gel-1130 Black Pure Silver (GS)",
+          "url": "https://images.stockx.com/images/ASICS-Gel-1130-Black-Pure-Silver-GS-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&q=60&dpr=1&trim=color&updated_at=1752721162"
+        }
+      ],
+      "isSponsored": false,
+      "name": "ASICS Gel-1130 Black Pure Silver (GS)",
+      "preDiscountPrice": null,
+      "price": 68,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/asics-gel-1130-black-pure-silver-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Nike Air Force 1 Low LE Black (GS)",
+          "url": "https://images.stockx.com/images/Nike-Air-Force-1-Low-LE-Black-2021-GS-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&q=60&dpr=1&trim=color&updated_at=1771280942"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Nike Air Force 1 Low LE Black (GS)",
+      "preDiscountPrice": null,
+      "price": 49,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/nike-air-force-1-low-le-black-2021-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 4 Retro Bred Reimagined (GS)",
+          "url": "https://images.stockx.com/images/Air-Jordan-4-Retro-Bred-Reimagined-GS-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&q=60&dpr=1&trim=color&updated_at=1738193358"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 4 Retro Bred Reimagined (GS)",
+      "preDiscountPrice": null,
+      "price": 109,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-4-retro-bred-reimagined-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 5 Retro Medium Soft Pink (GS)",
+          "url": "https://images.stockx.com/images/Air-Jordan-5-Retro-Medium-Soft-Pink-GS-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&q=60&dpr=1&trim=color&updated_at=1762451259"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 5 Retro Medium Soft Pink (GS)",
+      "preDiscountPrice": null,
+      "price": 113,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-5-retro-medium-soft-pink-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 4 Retro Rare Air (PS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": true,
+      "name": "Jordan 4 Retro Rare Air (PS)",
+      "preDiscountPrice": null,
+      "price": 90,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-4-retro-rare-air-ps?size=12C&sponsored=true",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 4 Retro Cave Stone (TD)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": true,
+      "name": "Jordan 4 Retro Cave Stone (TD)",
+      "preDiscountPrice": null,
+      "price": 60,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-4-retro-cave-stone-td?size=9C&sponsored=true",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Nike Dunk Low Triple Pink (PS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": true,
+      "name": "Nike Dunk Low Triple Pink (PS)",
+      "preDiscountPrice": null,
+      "price": 43,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/nike-dunk-low-triple-pink-ps?size=11C&sponsored=true",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 4 Retro White Cement (2025) (PS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": true,
+      "name": "Jordan 4 Retro White Cement (2025) (PS)",
+      "preDiscountPrice": null,
+      "price": 102,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-4-retro-white-cement-2025-ps?size=10.5C&xpress-ship=standard&sponsored=true",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 4 Retro Cave Stone (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 4 Retro Cave Stone (GS)",
+      "preDiscountPrice": null,
+      "price": 85,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-4-retro-cave-stone-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 4 Retro Military Blue (2024) (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 4 Retro Military Blue (2024) (GS)",
+      "preDiscountPrice": null,
+      "price": 110,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-4-retro-military-blue-2024-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Nike Ja 3 Pink Foam (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Nike Ja 3 Pink Foam (GS)",
+      "preDiscountPrice": null,
+      "price": 87,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/nike-ja-3-bright-pink-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "ASICS Gel-1130 White Aqua (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "ASICS Gel-1130 White Aqua (GS)",
+      "preDiscountPrice": null,
+      "price": 64,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/asics-gel-1130-white-aqua-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 4 Retro Rare Air (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 4 Retro Rare Air (GS)",
+      "preDiscountPrice": null,
+      "price": 97,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-4-retro-rare-air-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Nike Kobe 6 Dodgers (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Nike Kobe 6 Dodgers (GS)",
+      "preDiscountPrice": null,
+      "price": 113,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/nike-kobe-6-dodgers-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Nike Kobe 6 ASG Hollywood 3D (2026) (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Nike Kobe 6 ASG Hollywood 3D (2026) (GS)",
+      "preDiscountPrice": null,
+      "price": 150,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/nike-kobe-6-asg-hollywood-3d-2026-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 11 Retro Rare Air (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 11 Retro Rare Air (GS)",
+      "preDiscountPrice": null,
+      "price": 108,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-11-retro-rare-air-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 11 Retro Legend Blue (2024) (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 11 Retro Legend Blue (2024) (GS)",
+      "preDiscountPrice": null,
+      "price": 107,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-11-retro-legend-blue-2024-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 11 Retro Low Bred (GS) (2025)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 11 Retro Low Bred (GS) (2025)",
+      "preDiscountPrice": null,
+      "price": 97,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-11-retro-low-bred-2025-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 3 Retro Family Affair (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 3 Retro Family Affair (GS)",
+      "preDiscountPrice": null,
+      "price": 47,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-3-retro-family-affair-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 12 Retro Flu Game (2025) (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 12 Retro Flu Game (2025) (GS)",
+      "preDiscountPrice": null,
+      "price": 94,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-12-retro-flu-game-2025-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 11 Retro Black Barely Volt (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 11 Retro Black Barely Volt (GS)",
+      "preDiscountPrice": null,
+      "price": 113,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-11-retro-black-barely-volt-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Timberland 6\" Premium Boot Wheat (TD)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Timberland 6\" Premium Boot Wheat (TD)",
+      "preDiscountPrice": null,
+      "price": 47,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/timberland-6-inch-premium-boot-wheat-td",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 5 Retro Fire Red Black Tongue (2025) (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 5 Retro Fire Red Black Tongue (2025) (GS)",
+      "preDiscountPrice": null,
+      "price": 109,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-5-retro-fire-red-black-tongue-2025-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 4 Retro Flight Club (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 4 Retro Flight Club (GS)",
+      "preDiscountPrice": null,
+      "price": 93,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-4-retro-flight-club-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Nike Ja 3 Scratch 3.0 (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Nike Ja 3 Scratch 3.0 (GS)",
+      "preDiscountPrice": null,
+      "price": 92,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/nike-ja-3-turbo-green-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 12 Retro Pearl Pink (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 12 Retro Pearl Pink (GS)",
+      "preDiscountPrice": null,
+      "price": 123,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-12-retro-pearl-pink-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 4 Retro Midnight Navy (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 4 Retro Midnight Navy (GS)",
+      "preDiscountPrice": null,
+      "price": 155,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-4-retro-midnight-navy-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 12 Retro French Blue (2025) (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 12 Retro French Blue (2025) (GS)",
+      "preDiscountPrice": null,
+      "price": 93,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-12-retro-french-blue-2025-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Nike Kobe 5 Year of the Mamba Eggplant (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Nike Kobe 5 Year of the Mamba Eggplant (GS)",
+      "preDiscountPrice": null,
+      "price": 85,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/nike-kobe-5-year-of-the-mamba-eggplant-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 12 Retro Taxi (2025) (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 12 Retro Taxi (2025) (GS)",
+      "preDiscountPrice": null,
+      "price": 136,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-12-retro-taxi-2025-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 4 Retro Red Cement (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 4 Retro Red Cement (GS)",
+      "preDiscountPrice": null,
+      "price": 121,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-4-retro-red-cement-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "UGG Tasman II Slipper Chestnut (Kids)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "UGG Tasman II Slipper Chestnut (Kids)",
+      "preDiscountPrice": null,
+      "price": 56,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/ugg-tasman-ii-slipper-chestnut-kids",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Jordan 1 Mid Ice Blue (2022) (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Jordan 1 Mid Ice Blue (2022) (GS)",
+      "preDiscountPrice": null,
+      "price": 54,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/air-jordan-1-mid-ice-blue-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "Nike Dunk Low UNC (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "Nike Dunk Low UNC (GS)",
+      "preDiscountPrice": null,
+      "price": 56,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/nike-dunk-low-unc-2021-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "New Balance 9060 Pink Granite Washed Burgundy (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "New Balance 9060 Pink Granite Washed Burgundy (GS)",
+      "preDiscountPrice": null,
+      "price": 105,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/new-balance-9060-pink-granite-washed-burgundy-gs",
+      "videos": []
+    },
+    {
+      "additionalImages": [],
+      "aggregateRating": null,
+      "availability": "in_stock",
+      "badges": [],
+      "brand": "",
+      "category": "",
+      "currency": "USD",
+      "description": "",
+      "features": [],
+      "images": [
+        {
+          "altText": "New Balance 9060 Reflection Black (GS)",
+          "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+        }
+      ],
+      "isSponsored": false,
+      "name": "New Balance 9060 Reflection Black (GS)",
+      "preDiscountPrice": null,
+      "price": 93,
+      "productId": "",
+      "reviews": [],
+      "seller": {
+        "name": "StockX",
+        "rating": null,
+        "url": "https://stockx.com"
+      },
+      "serialNumbers": [],
+      "specifications": [],
+      "url": "https://stockx.com/new-balance-9060-reflection-black-gs",
+      "videos": []
+    }
+  ],
+  "recommendations": {
+    "relatedProducts": []
+  },
+  "relatedSearches": [],
+  "searchMetadata": {
+    "query": "kids shoes",
+    "resultsDisplayed": 48,
+    "searchType": "keyword",
+    "searchUrl": "",
+    "totalResults": 1000
+  },
+  "sponsoredProducts": [
+    {
+      "currency": "USD",
+      "image": {
+        "altText": "adidas Handball Spezial Preloved Fig (GS)",
+        "url": "https://images.stockx.com/images/adidas-Handball-Spezial-Preloved-Fig-GS.jpg?fit=fill&bg=FFFFFF&w=140&h=75&q=60&dpr=1&trim=color&updated_at=1732098807"
+      },
+      "name": "adidas Handball Spezial Preloved Fig (GS)",
+      "price": 119,
+      "sponsorInfo": null,
+      "url": "https://stockx.com/adidas-handball-spezial-preloved-fig-gs?size=6.5Y&sponsored=true"
+    },
+    {
+      "currency": "USD",
+      "image": {
+        "altText": "Nike Ja 3 Sound Check (GS)",
+        "url": "https://images.stockx.com/images/Nike-Ja-3-Sound-Check-GS-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&q=60&dpr=1&trim=color&updated_at=1766610860"
+      },
+      "name": "Nike Ja 3 Sound Check (GS)",
+      "price": 86,
+      "sponsorInfo": null,
+      "url": "https://stockx.com/nike-ja-3-sound-check-gs?size=6Y&xpress-ship=standard&sponsored=true"
+    },
+    {
+      "currency": "USD",
+      "image": {
+        "altText": "Jordan 4 Retro Cave Stone (TD)",
+        "url": "https://images.stockx.com/images/Air-Jordan-4-Retro-Cave-Stone-TD-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&q=60&dpr=1&trim=color&updated_at=1761571205"
+      },
+      "name": "Jordan 4 Retro Cave Stone (TD)",
+      "price": 60,
+      "sponsorInfo": null,
+      "url": "https://stockx.com/air-jordan-4-retro-cave-stone-td?size=10C&sponsored=true"
+    },
+    {
+      "currency": "USD",
+      "image": {
+        "altText": "Nike Dunk Low Triple Pink (PS)",
+        "url": "https://images.stockx.com/images/Nike-Dunk-Low-Triple-Pink-PS-Product_V2.jpg?fit=fill&bg=FFFFFF&w=140&h=75&q=60&dpr=1&trim=color&updated_at=1738193358"
+      },
+      "name": "Nike Dunk Low Triple Pink (PS)",
+      "price": 45,
+      "sponsorInfo": null,
+      "url": "https://stockx.com/nike-dunk-low-triple-pink-ps?size=12C&sponsored=true"
+    },
+    {
+      "currency": "USD",
+      "image": {
+        "altText": "Jordan 4 Retro Rare Air (PS)",
+        "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+      },
+      "name": "Jordan 4 Retro Rare Air (PS)",
+      "price": 90,
+      "sponsorInfo": null,
+      "url": "https://stockx.com/air-jordan-4-retro-rare-air-ps?size=12C&sponsored=true"
+    },
+    {
+      "currency": "USD",
+      "image": {
+        "altText": "Jordan 4 Retro Cave Stone (TD)",
+        "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+      },
+      "name": "Jordan 4 Retro Cave Stone (TD)",
+      "price": 60,
+      "sponsorInfo": null,
+      "url": "https://stockx.com/air-jordan-4-retro-cave-stone-td?size=9C&sponsored=true"
+    },
+    {
+      "currency": "USD",
+      "image": {
+        "altText": "Nike Dunk Low Triple Pink (PS)",
+        "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+      },
+      "name": "Nike Dunk Low Triple Pink (PS)",
+      "price": 43,
+      "sponsorInfo": null,
+      "url": "https://stockx.com/nike-dunk-low-triple-pink-ps?size=11C&sponsored=true"
+    },
+    {
+      "currency": "USD",
+      "image": {
+        "altText": "Jordan 4 Retro White Cement (2025) (PS)",
+        "url": "https://stockx-assets.imgix.net/media/Product-Placeholder-Default-20210415.jpg?fit=fill&bg=FFFFFF&q=60&dpr=1&trim=color&w=140&h=75"
+      },
+      "name": "Jordan 4 Retro White Cement (2025) (PS)",
+      "price": 102,
+      "sponsorInfo": null,
+      "url": "https://stockx.com/air-jordan-4-retro-white-cement-2025-ps?size=10.5C&xpress-ship=standard&sponsored=true"
+    }
+  ]
+}
